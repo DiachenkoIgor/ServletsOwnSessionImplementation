@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="screen_recorder">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/java-screen-recorder-0.8/screen_recorder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
